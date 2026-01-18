@@ -36,6 +36,8 @@ git push origin main
 
 - 🌐 [Personal Web Site](https://github.com/mehdi1-T/personal-web-site)
 
+- 🐍 [Python basics projects](https://github.com/mehdi1-T/PythonBasicsProjects)
+
 ---
 
 <img src="image_1.jpg" alt="big_image" width="600">
