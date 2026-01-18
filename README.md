@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <img src="image_2.jpg" alt="image_2" width="80">
+  <img src="image.jpg" alt="image_2" width="80">
   <div>
     <h1>HI! I'm Mehdi Talalha 👋</h1>
   </div>
