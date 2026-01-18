@@ -21,6 +21,9 @@ print("Hello, World!")
 ```
 
 - C
+```C
+printf("Hello, World!");
+```
 
 - Git. btw I don't know why but I love this tool 
 
