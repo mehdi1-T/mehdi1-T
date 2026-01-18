@@ -1,8 +1,10 @@
+<div style="display: flex; align-items: flex-start;">
 
-<p align="left">
-    <img src="image_2.jpg" alt="image_2" width="250">
-    <h1 align="right">HI! I'm Mehdi Talalha👋</h1>
-</p>
+  <img src="image_2.jpg" alt="Mehdi" width="80" style="margin-right: 15px;">
+
+  <h1 style="margin: 0;">HI! I'm Mehdi Talalha 👋</h1>
+
+</div>
 
 
 I'm a programmer learning Python, C.
