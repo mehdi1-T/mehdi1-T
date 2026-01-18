@@ -1,10 +1,12 @@
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <img src="image.jpg" alt="image_2" width="80">
   <div>
-    <h1>HI! I'm Mehdi Talalha 👋 [@ska_zene](https://www.instagram.com/ska_zene/)</h1>
+    <h1>HI! I'm Mehdi Talalha 👋 </h1>
   </div>
 </div>
-learn more about me at [MehdiTalalha.com](https://mehdi1-t.github.io/personal-web-site/)
+[@ska_zene](https://www.instagram.com/ska_zene/)
+learn more about me at 
+[MehdiTalalha.com](https://mehdi1-t.github.io/personal-web-site/)
 
 I'm a programmer & STE student learning Python, C. 
 I love build projects with programming and Robotics.
