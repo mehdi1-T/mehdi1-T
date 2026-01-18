@@ -26,6 +26,9 @@ printf("Hello, World!");
 ```
 
 - Git. btw I don't know why but I love this tool 
+```bach
+git push origin main
+```
 
 ## 📂 Projects
 
