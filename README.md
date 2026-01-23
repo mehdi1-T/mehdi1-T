@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mehdi and I'm a Student, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is Mehdi and I'm a Student, from Morocco</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/6k8z8JkG0ZkAAAAC/sloth-computer.gif" />
+
 
 ###
 
