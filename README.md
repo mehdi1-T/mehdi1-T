@@ -46,10 +46,6 @@
 ---
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img width="498" src="https://github-readme-stats.vercel.app/api?username=mehdi1-T&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&include_all_commits=true" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi1-T&theme=radical&hide_border=false&border_radius=10" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi1-T&theme=radical" />
@@ -88,8 +84,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>
-
----
 ---
 
 <!-- Support Section -->
