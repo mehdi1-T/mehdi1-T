@@ -47,6 +47,11 @@
 </div>
 
 
+<div align="center">
+
+  ![Animated Pixel Art](https://github-readme-activity-graph.vercel.app/graph?username=mehdi1-T&bg_color=0d1117&color=00ff88&line=ff6b6b&point=fff7e0&area=true&hide_border=true&radius=10)
+</div>
+
 <!-- Footer Wave -->
 <p align="center">
   <img 
