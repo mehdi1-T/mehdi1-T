@@ -38,7 +38,6 @@
 ---
 
 <!-- Skills & Technologies -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,react,nextjs,nodejs,express" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,github,git,figma" /><br>
