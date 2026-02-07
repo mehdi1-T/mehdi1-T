@@ -27,8 +27,6 @@
   <a href="https://mehdi1-t.github.io/personal-web-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white&style=for-the-badge"></a>
 </div>
 
----
-
 <!-- Activity Graph -->
 <div align="center">
 
