@@ -10,7 +10,7 @@
 </div>
 
 <!-- About Section -->
-<img align="right" alt="Coding" width="350" src="httpsmehdi1-T\assets\gitgif.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/mehdi1-T\assets\gitgif.gif">
 
 ### 💫 About Me
 - 👨‍💻 **Passionate Developer** crafting innovative solutions
