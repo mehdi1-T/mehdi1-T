@@ -33,20 +33,21 @@
   ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdi1-T&bg_color=0d1117&color=00ff88&line=ff6b6b&point=fff7e0&area=true&hide_border=true&radius=10)
 </div>
 
----
+
 
 <!-- Skills & Technologies -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,github,git,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,kubernetes,aws,firebase,netlify" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,arch,kali,postman,notion,slack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,pycharm,cpp,react,nextjs,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,github,django,go,git,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,r,php,vuejs,mysql,postgresql,docker,kubernetes,aws,firebase,netlify" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,angular,net,arch,kali,postman,notion,slack" />
 </div>
 
 
 <div align="center">
 
   ![Animated Pixel Art](https://github.com/mehdi1-T/mehdi1-T/blob/main/assets/down.gif)
+
 </div>
 
 <!-- Footer Wave -->
